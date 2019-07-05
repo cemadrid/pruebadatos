@@ -1,7 +1,7 @@
 {
   "frecuencias":[
-    {"id":1, "cooperativa": "Prueba1", "solfecha": "02/07/2019", "fecha": "02/07/2019", "usuario": "andres", "hora": "14:00", "descripcion": "Solicitud frecuencia 1","localidad":"TTG", "estado":"Aprobada"},
-    {"id":2, "cooperativa": "Prueba2", "solfecha": "03/07/2019", "fecha": "03/07/2019", "usuario": "cindy", "hora": "15:00", "descripcion": "Solicitud frecuencia 2", "localidad":"TTG", "estado":"Pendiente"},
-    {"id":3, "cooperativa": "Prueba3", "solfecha": "04/07/2019", "fecha": "04/07/2019", "usuario": "andres", "hora": "16:00", "descripcion": "Solicitud frecuencia 3","localidad":"TTG", "estado":"Rechazada"}
+    {"id":1, "cooperativa": "Prueba1", "solfecha": "02/07/2019", "fecha": "02/07/2019", "usuario": "andres", "hora": "14:00", "descripcion": "Solicitud frecuencia 1", "estado":"Aprobada"},
+    {"id":2, "cooperativa": "Prueba2", "solfecha": "03/07/2019", "fecha": "03/07/2019", "usuario": "cindy", "hora": "15:00", "descripcion": "Solicitud frecuencia 2", "estado":"Pendiente"},
+    {"id":3, "cooperativa": "Prueba3", "solfecha": "04/07/2019", "fecha": "04/07/2019", "usuario": "andres", "hora": "16:00", "descripcion": "Solicitud frecuencia 3", "estado":"Rechazada"}
   ]
 }
